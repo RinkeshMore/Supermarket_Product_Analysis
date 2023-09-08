@@ -1,0 +1,19 @@
+Process Flow - Market Basket Analysis
+
+1.Exploring Dataset
+2.Finalize Dataset
+3.Understanding dataset
+4.Define Objective
+5.Loading Dataset
+6.Getting general Information of Datasets
+7.Cleaning dataset
+8.Feature Engineering
+9.Exporatory Data Analysis
+	9.1 univariate analysis
+	9.2 Bivairiate Analysis
+	9.3 MultiVariate Analysis
+10.Affinity analysis
+	10.1 Apriori Algorithum
+	10.2 Assocaition Rule
+11.Conclusion Based on Data
+
